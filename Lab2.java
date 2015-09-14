@@ -1,5 +1,6 @@
+   
 public class Lab2 {
-    
+            
     public static void main(String[] args) {
 
 	System.out.println("As I was going to St. Ives");
@@ -46,7 +47,7 @@ public class Lab2 {
 	// "Number going to St. Ives is " and then, on the same line,
 	// the number going to St. Ives (stored in the _total_ variable).
 	// Add a statement or statements that will do this.
-	
+	System.out.println("Number going to St. Ives is " + total);
     }
     
 }
